@@ -512,3 +512,29 @@ button {
   display: none;
 }
 /*# sourceMappingURL=style.css.map */
+
+/********************
+* additional btn style
+********************/
+a.btn--orange {
+  color: #000;
+  background-color: #fff;
+}
+
+a.btn--orange:hover {
+  color: #000;
+  background: #fff;
+}
+
+a.btn--shadow {
+  -webkit-box-shadow: 0 3px 5px rgba(0, 0, 0, 0.3);
+  box-shadow: 0 3px 5px rgba(0, 0, 0, 0.3);
+}
+
+a.btn--circle {
+  border-radius: 50%;
+  line-height: 200px;
+  width: 200px;
+  height: 200px;
+  padding: 0;
+}
