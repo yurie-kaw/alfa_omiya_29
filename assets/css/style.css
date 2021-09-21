@@ -240,7 +240,8 @@ button {
 * Color
 *********************/
 .bg-color--keycolor {
-  background-color: #bbbbbb;
+  /*background-color: #bbbbbb;*/
+  background-color: #000000;
 }
 
 .bg-color--subcolor {
